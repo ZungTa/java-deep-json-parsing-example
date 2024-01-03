@@ -5,7 +5,7 @@
     {
       "name": "alice",
       "age": 11,
-      "favorite": {
+      "my-favorite": {
         "foods": [
           "rice"
         ],
