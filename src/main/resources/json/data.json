@@ -1,13 +1,19 @@
 {
   "name": "ZungTa",
   "age": 10,
-  "friend": {
-    "alice": {
+  "friend": [
+    {
+      "name": "alice",
       "age": 11,
       "favorite": {
-        "foods": ["rice"],
-        "games": ["monster hunter world", "dark souls"]
+        "foods": [
+          "rice"
+        ],
+        "games": [
+          "monster hunter world",
+          "dark souls"
+        ]
       }
     }
-  }
+  ]
 }
